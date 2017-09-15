@@ -20,6 +20,7 @@
     font-size:1.1em;
     padding-top:5px;
     padding-bottom:5px;
+    cursor: pointer;
 }
 
 .leftnav_1.active {
@@ -30,6 +31,7 @@
 .leftnav_2 {
     padding-left:20px;
     color:#888;
+    cursor: pointer;
 }
 
 .leftnav_2.active {
